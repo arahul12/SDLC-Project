@@ -60,7 +60,7 @@ Since the system uses only open source software, it is free of cost..!!
 | 3 | Implementation | 0 |
 
 ## Defining Our System
-![](https://www.google.com/url?sa=i&url=http%3A%2F%2Fecrypt-eu.blogspot.com%2F2016%2F02%2Fparallelization-of-pollards-rho-method.html&psig=AOvVaw0ei8C-wbZLfkOri4hl1pu3&ust=1628358985623000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCID9qaf8nPICFQAAAAAdAAAAABAD)
+![](https://github.com/pradhanamit/SDLC-Project/blob/main/1-Requirements/5.png)
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
