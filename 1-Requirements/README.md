@@ -42,21 +42,25 @@ Choose f(x):a polynomial Ex. f(x) = x^2+a
 
 ## Algorithm
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pradhanamit/SDLC-Project/blob/main/1-Requirements/1.png)
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pradhanamit/SDLC-Project/blob/main/1-Requirements/2.PNG)
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pradhanamit/SDLC-Project/blob/main/1-Requirements/3.PNG)
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/pradhanamit/SDLC-Project/blob/main/1-Requirements/4.PNG)
 
 ## Cost and Features and Timeline
-![Description](Link to Pic)
--- Content 
+
+Since the system uses only open source software, it is free of cost..!!
+| S.No. | Features | Cost (Rs.) |
+| ---   | ---      |  ---       |
+| 1 | IDE | 0 |
+| 2 | Calculation | 0 |
+| 3 | Implementation | 0 |
+
 ## Defining Our System
-    -- TBD
+![](https://www.google.com/url?sa=i&url=http%3A%2F%2Fecrypt-eu.blogspot.com%2F2016%2F02%2Fparallelization-of-pollards-rho-method.html&psig=AOvVaw0ei8C-wbZLfkOri4hl1pu3&ust=1628358985623000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCID9qaf8nPICFQAAAAAdAAAAABAD)
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
