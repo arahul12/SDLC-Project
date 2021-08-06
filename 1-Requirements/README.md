@@ -68,23 +68,20 @@ Since the system uses only open source software, it is free of cost..!!
 
 ## Who:
 
-**TBD**
+>The program is helping hand for user to verify the result.It is not the fastest algorithm by far but in practice it outperforms trial division by many orders of magnitude. It is based on very simple ideas that can be used in other contexts as well.
 
 ## What:
 
-**TBD**
+>Finding factorization in seconds.
 
 ## When:
 
-**TBD**
+>Struggling with lot of calcutation ,when procession the algorithum.
 
 ## Where:
 
-**TBD**
+>For the complex problem the program can be used to check the output. 
 
-## How:
-
-**TBD**
 
 # Detail requirements
 ## High Level Requirements:
@@ -93,5 +90,5 @@ Since the system uses only open source software, it is free of cost..!!
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
+In the low level requirement, we must have the knowledge of basic calculation like gcd,modular inverse.
 -- ID | Description | Status (Implemented/Future)
