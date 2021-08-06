@@ -62,7 +62,7 @@ Since the system uses only open source software, it is free of cost..!!
 ## Defining Our System
 ![](https://github.com/pradhanamit/SDLC-Project/blob/main/1-Requirements/5.png)
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![](https://github.com/pradhanamit/SDLC-Project/blob/main/1-Requirements/swot-file.jpg)
 
 # 4W&#39;s and 1&#39;H
 
