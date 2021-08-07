@@ -5,9 +5,9 @@
 
 ![](https://github.com/pradhanamit/SDLC-Project/blob/main/Rho-.gif)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
+Build | Code Quality | Unit Testing | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C Linux Build](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/c-cpp.yml) [![C windows Build](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/windows-build.yml/badge.svg)](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/windows-build.yml) | [![Cppcheck](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/cppcheck.yml) [![Valgrind](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/dynamic-code-quality.yml/badge.svg)](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/dynamic-code-quality.yml) [![CI-Coverage](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/coverage.yml/badge.svg)](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/coverage.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3fa34cb3d58e4748a8a745ce7b1e8490)](https://www.codacy.com/gh/Sanchana-2k/LTTS_C_MiniProject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sanchana-2k/LTTS_C_MiniProject&amp;utm_campaign=Badge_Grade) | [![Linux Unit Testing](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/unity.yml/badge.svg)](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/unity.yml) [![Windows unit testing](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/windows-unity.yml/badge.svg)](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/windows-unity.yml) | [![Git Inspector](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Sanchana-2k/LTTS_C_MiniProject/actions/workflows/gitinspector.yml)
+|test|test|test|test|
 
 ## Folder Structure
 Folder             | Description
