@@ -85,10 +85,21 @@ Since the system uses only open source software, it is free of cost..!!
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+|      ID          |Description                          |Category                         |Status                         |
+|----------------|-------------------------------|-----------------------------|-----------------------------|
+|HR_01|Algorithum |Scenerio|pending|
+|HR_02|Implementation |Technical|pending|
+|HR_03|Decision making |Scenerio|pending|
+|HR_04|Given Input |Technical|pending|
+|HR_05|Code should work |Technical|pending|
+
 
 
 ##  Low level Requirements:
 In the low level requirement, we must have the knowledge of basic calculation like gcd,modular inverse.
--- ID | Description | Status (Implemented/Future)
+|      ID          |Description                          |Category                         |  HLR_ID  |Status               |
+|----------------|-------------------------------|-----------------------------|----------|-----------------------------|
+|LR_01|Proceed next step when algo is understable |Technical|1,2|pending|
+|LR_02|Implementation of small part  |Technical|2,3|pending|
+|LR_03|Action perform for inputs |Technical|2,3,4,5|pending|
+|LR_04|Display Proper error message |Technical|2,,4,5|pending|
